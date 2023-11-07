@@ -91,7 +91,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 8968046936285728491}
     m_Modifications:
     - target: {fileID: 6985110399353763284, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
@@ -151,12 +151,7 @@ PrefabInstance:
       value: FreeLamp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 7763018606562930542, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 6862693768744317155}
   m_SourcePrefab: {fileID: 100100000, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
 --- !u!4 &6975687961013967959 stripped
 Transform:
@@ -185,7 +180,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 8968046936285728491}
     m_Modifications:
     - target: {fileID: 6985110399353763284, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
@@ -245,12 +240,7 @@ PrefabInstance:
       value: FreeLamp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 7763018606562930542, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2512582924559964733}
   m_SourcePrefab: {fileID: 100100000, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
 --- !u!1 &8592647640840097856 stripped
 GameObject:
@@ -279,7 +269,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 8968046936285728491}
     m_Modifications:
     - target: {fileID: 6985110399353763284, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
@@ -339,12 +329,7 @@ PrefabInstance:
       value: FreeLamp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 7763018606562930542, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2250645045092421790}
   m_SourcePrefab: {fileID: 100100000, guid: 8f3b97f8b27c44ca590e09b3db3fad23, type: 3}
 --- !u!4 &5015053865739422720 stripped
 Transform:

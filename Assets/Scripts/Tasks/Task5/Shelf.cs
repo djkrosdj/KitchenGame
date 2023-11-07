@@ -46,6 +46,8 @@ public class Shelf : MonoBehaviour
         }
         
         Instantiate(_items[ItemsCount++], _itemsRoot);
+        
+        ItemSpawned?.Invoke(); // Вызываем действие после спавна.
     }
     
     public void Fall()
